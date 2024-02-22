@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "246444940586",
+    "project_id": "fir-authentications-2b9a3",
+    "storage_bucket": "fir-authentications-2b9a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246444940586:android:b48858e6a4d850da9c9253",
+        "android_client_info": {
+          "package_name": "com.example.pnone_auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYh3Qpesebdkyojua0XMwPZRe74Y78KWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
